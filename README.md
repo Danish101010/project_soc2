@@ -1,1 +1,2 @@
-# project_soc2
+Basically i learnt the basics of machine learning algorithms (supervised and unsupervised ) such as  Linear regression , gradient descent , logistic regression , support vector machines  and their implementation from scratch in python ...
+Then i learned tensorflow ,neural network and implementation in python  , concepts  such as backward propagation analysis ,stochastic gradient descent etc
